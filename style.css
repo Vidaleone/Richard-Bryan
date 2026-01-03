@@ -60,6 +60,12 @@ footer {
     width: 100%;
 }
 
+    /* JS */
+    .menu a.active {
+  font-weight: bold;
+}
+
+
 /* Estilos para dispositivos móveis */
 @media (max-width: 768px) {
     header {
